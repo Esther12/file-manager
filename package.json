@@ -1,0 +1,19 @@
+{
+  "name": "file-system-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Interface.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node Interface.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
